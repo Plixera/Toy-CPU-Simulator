@@ -1,1 +1,1 @@
-# Toy CPU-Simulator
+# Toy CPU Simulator
