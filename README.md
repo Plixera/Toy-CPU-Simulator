@@ -1,1 +1,1 @@
-# 8-Bit-CPU-Simulator
+# Toy CPU-Simulator
