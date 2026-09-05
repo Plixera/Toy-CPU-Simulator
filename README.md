@@ -1,1 +1,1 @@
-# Toy CPU Simulator
+# Built an 8 bit CPU Simulator using C++
