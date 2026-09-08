@@ -80,7 +80,7 @@ void CPU::runStepByStep()
         {
             uint8_t regA = memory[pc++];
             uint8_t regB = memory[pc++];
-            registers[regA] += registers[regB];
+            registers[regA] = registers[regA] + registers[regB];
             printState("ADD R" + to_string(regA) + " R" + to_string(regB));
             break;
         }
